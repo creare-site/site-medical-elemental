@@ -1,4 +1,4 @@
-# [Site Medical Elemental](https://site-medical-elemental.websitemarket.ro/) - Site Prezentare
+# [Site Medical Elemental](https://site-medical-elemental.websitemarket.ro/)
 
 Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
@@ -43,4 +43,4 @@ Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https:/
 <br />
 
 ---
-Site Prezentare - [Elemental](https://site-medical-elemental.websitemarket.ro/) un produs **WebsiteMarket**
+[Site Medical Elemental](https://site-medical-elemental.websitemarket.ro/) un produs **WebsiteMarket**
